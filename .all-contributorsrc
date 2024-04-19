@@ -1,0 +1,108 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Sky-De",
+      "name": "sky_de_1991",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79264045?v=4",
+      "profile": "https://github.com/Sky-De",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "txlan1710",
+      "name": "txlan1710",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128203119?v=4",
+      "profile": "https://github.com/txlan1710",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "tkthib2015012",
+      "name": "tkthib2015012",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146736127?v=4",
+      "profile": "https://github.com/tkthib2015012",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "LittleCuong",
+      "name": "Nguyen Phu Cuong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91473760?v=4",
+      "profile": "https://github.com/LittleCuong",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "anhlee66",
+      "name": "anhlee66",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125440141?v=4",
+      "profile": "https://github.com/anhlee66",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "bidzy1617",
+      "name": "bidzy1617",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105366189?v=4",
+      "profile": "https://github.com/bidzy1617",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "IrfanSalim",
+      "name": "Md Irfan Salim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109443065?v=4",
+      "profile": "https://github.com/IrfanSalim",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "divyakelaskar",
+      "name": "Divya Kelaskar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56636487?v=4",
+      "profile": "https://bio.link/divya",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bhavik001",
+      "name": "bhavik001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95668553?v=4",
+      "profile": "https://github.com/bhavik001",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dotslashbit",
+      "name": "Sahil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46224156?v=4",
+      "profile": "https://neuronize.dev",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "minimalist-task-tracker",
+  "projectOwner": "miljkovicjovan"
+}
